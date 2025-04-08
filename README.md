@@ -24,7 +24,14 @@ Credit card fraud is any dishonest act and behaviour to obtain information witho
 
 # Data Source
 
-The data set includes credit card transactions made by European cardholders over a period of two days in September 2013. Out of a total of 2,84,807 transactions, 492 were fraudulent. This data set is highly unbalanced, with the positive class (frauds) accounting for 0.172% of the total transactions. The data set has also been modified with Principal Component Analysis (PCA) to maintain confidentiality. Apart from ‘time’ and ‘amount’, all the other features (V1, V2, V3, up to V28) are the principal components obtained using PCA. The feature 'time' contains the seconds elapsed between the first transaction in the data set and the subsequent transactions. The feature 'amount' is the transaction amount. The feature 'class' represents class labelling, and it takes the value 1 in cases of fraud and 0 in others.
+The dataset contains credit card transactions made by European cardholders over two days in September 2013. It includes 284,807 transactions, of which only 492 are fraudulent—making the data highly imbalanced, with frauds representing just 0.172% of all transactions.
+
+To ensure confidentiality, the dataset has been transformed using Principal Component Analysis (PCA), except for the features 'Time' and 'Amount'.
+
+  * 'Time' indicates the seconds elapsed since the first transaction.
+  * 'Amount' is the transaction amount.
+  * 'Class' is the target variable, where 1 denotes fraud and 0 denotes a legitimate transaction.
+  *  Features V1 to V28 are the principal components derived from PCA.
 
 Dataset Link: https://www.kaggle.com/mlg-ulb/creditcardfraud
 
