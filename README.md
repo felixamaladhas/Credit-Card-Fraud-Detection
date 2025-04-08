@@ -1,7 +1,7 @@
 # Credit-Card-Fraud-Detection 
 ![credit-card-fraud-detection](https://github.com/user-attachments/assets/11efaf5f-4dcd-4899-8efe-ce29cdb0890b)
 
-#[Credit Card Fraud Detection.pptx](https://github.com/user-attachments/files/19648962/Credit.Card.Fraud.Detection.pptx)
+Presentation Link: [Credit Card Fraud Detection.pptx](https://github.com/user-attachments/files/19648962/Credit.Card.Fraud.Detection.pptx)
 
 # Problem statement
 
